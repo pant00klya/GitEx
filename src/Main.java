@@ -10,6 +10,7 @@ public class Main {
         }
         for (int i = 0; i < 10; i++) {
             System.out.println("How are you??");
+            System.out.println("I hope you're doing great!");
         }
 
     }
